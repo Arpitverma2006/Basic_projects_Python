@@ -15,7 +15,7 @@ This is a feature-rich GUI-based calculator built using Tkinter in Python. It su
 
 bash
 Copy code
-git clone https://github.com/your-username/Advanced-Calculator-GUI.git
+git clone 
 cd Advanced-Calculator-GUI
 2️⃣ Install required dependencies (if any):
 
